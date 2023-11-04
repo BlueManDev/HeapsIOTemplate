@@ -1,0 +1,10 @@
+# Window properties
+-D windowSize=960x720
+-D windowTitle=Heaps Sample
+
+# Build settings
+-cp src
+-lib heaps
+-lib hlsdl
+-hl main.hl
+-main Main
